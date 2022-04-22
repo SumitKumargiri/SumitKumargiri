@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SumitKumargiri
 - 👀 I’m interested in c++ and python
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on teacher,friend, parent and  github.
 - 📫 How to reach me python
 
 <!---
