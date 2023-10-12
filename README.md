@@ -1,5 +1,6 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm Sumit Kumar Giri" />
+    <img src="https://readme-typing-svg.herokuapp.com/?
+        font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm Sumit Kumar Giri;" />
 </h1>
 
 <h3 align="center">A passionate frontend developer from India and in my free time I make YouTube videos at:- https://www.youtube.com/@SKtutorial15434</h3>
