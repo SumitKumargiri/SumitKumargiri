@@ -2,6 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?
         font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm Sumit Kumar Giri;" />
 </h1>
+ <hr/>
 
 <h3 align="center">A passionate frontend developer from India and in my free time I make YouTube videos at:- https://www.youtube.com/@SKtutorial15434</h3>
 
@@ -10,6 +11,33 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitgiri15434&label=Profile%20views&color=0e75b6&style=flat" alt="sumitgiri15434" /> </p>
 
 - 📫 How to reach me **sumitgiri15434@gmail.com**
+
+ <hr/>
+<div align="center">
+ 
+ 🔭 I’m currently working on **UI Design**
+ 
+ 🌱 I’m currently learning **React,javascript,Angular**
+
+ 💬 Ask me about **Node.js, React, javascript,Html,Css... or anything [here]([https://github.com/salesp07/salesp07/issues](https://github.com/SumitKumargiri))**
+
+ ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ 
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:pedro.sales.sumitgiri15434@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/sumit-kumar-giri-524718214/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://sumitkumargiri.github.io/portfolio_web/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
+
+ <hr/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
