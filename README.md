@@ -20,6 +20,7 @@
   <a href="mailto:sumitgiri15434@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
+ <a href="https://www.youtube.com/@SKtutorial15434"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/sumit-kumar-giri-524718214/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
