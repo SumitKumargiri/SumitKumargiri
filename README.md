@@ -1,5 +1,6 @@
 <!----<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitgiri15434&label=Profile%20views&color=0e75b6&style=flat" alt="sumitgiri15434" /> </p>---->
-
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SumitKumargiri&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 ## Profile Views
 
 
@@ -22,7 +23,6 @@
       </td>
     </tr>
   </table>
-  
 
 <h1 align="center">👋 Hi,I'm Sumit Kumar Giri</h1>
 <h3 align="center">A passionate frontend developer from India and in my free time I make YouTube videos at:- https://www.youtube.com/@SKtutorial15434</h3>
@@ -67,7 +67,7 @@
 <a href="https://auth.geeksforgeeks.org/user/sumitgiri15434" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sumitgiri15434" height="30" width="40" /></a>
 </p>
 <hr/>
-<h3 align="left">⚒️Languages and Tools:⚒️</h3>
+<h3 align="left">💻⚒️Languages and Tools:⚒️💻</h3>
 <p align="left"> <a href="https://www.react.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.w3schools.com/vscode/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a><a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.javascript.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a></a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
 
 <hr/>
@@ -81,7 +81,7 @@
 
 <hr/>
 
-<h2 align="center">⚡ Status ⚡</h2>------->
+<!-----------<h2 align="center">⚡ Status ⚡</h2>------->
 <!-- <br>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=SumitKumargiri&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
@@ -99,8 +99,8 @@
 <br/> -->
 
 
-## ⚡My Stats⚡:
-<!----<p align="center">
+<!-------## ⚡My Stats⚡:
+<p align="center">
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=SumitKumargiri&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
 </p>
 
@@ -118,3 +118,32 @@
     <a href="https://github.com/SumitKumargiri/IP-Finder"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SumitKumargiri&repo=IP-Finder&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
    <a href="https://github.com/ChatCool-Inc/chatcool"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ChatCool-Inc&repo=chatcool&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
   </p>
+---->
+
+
+# 📊 GitHub Stats⚡⚡:
+![](https://github-readme-stats.vercel.app/api?username=SumitKumargiri&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+## Activity On GitHub
+![](https://github-readme-streak-stats.herokuapp.com/?user=SumitKumargiri&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SumitKumargiri&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<!-----------## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SumitKumargiri&theme=radical&no-frame=false&no-bg=false&margin-w=4)-------->
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=SumitKumargiri&limit=5&theme=monokai&combine_all_yearly_contributions=true)
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=SumitKumargiri&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+</h3>
