@@ -1,4 +1,29 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitgiri15434&label=Profile%20views&color=0e75b6&style=flat" alt="sumitgiri15434" /> </p>
+<!----<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitgiri15434&label=Profile%20views&color=0e75b6&style=flat" alt="sumitgiri15434" /> </p>---->
+
+## Profile Views
+
+
+  <table>
+    <tr>
+      <!-- <th>Profile Views</th> -->
+      <th>Total Count</th>
+    </tr>
+    <tr>
+      <!-- <td>
+        <div align="center">
+          <a href="https://github.com/SumitKumargiri"><img src="https://komarev.com/ghpvc/?username=sumitgiri15434&label=Profile%20views&color=0e75b6&style=flat" alt="sumitgiri15434" width="52" /></a>
+          <br />
+          <a align="center" href="https://github.com/SumitKumargiri"><b>SumitKumargiri</b></a>
+        </b>
+      </td> -->
+      <!-- Profile Views -->
+      <td>
+         <a href="https://github.com/SumitKumargiri"> <img src="https://komarev.com/ghpvc/?username=SumitKumargiri&style=for-the-badge&color=brightgreen"> </a>
+      </td>
+    </tr>
+  </table>
+  
+
 <h1 align="center">👋 Hi,I'm Sumit Kumar Giri</h1>
 <h3 align="center">A passionate frontend developer from India and in my free time I make YouTube videos at:- https://www.youtube.com/@SKtutorial15434</h3>
 
