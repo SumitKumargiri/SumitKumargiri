@@ -121,12 +121,12 @@
 ---->
 
 
-# 📊 GitHub Stats⚡⚡:
-![](https://github-readme-stats.vercel.app/api?username=SumitKumargiri&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-## Activity On GitHub
-![](https://github-readme-streak-stats.herokuapp.com/?user=SumitKumargiri&theme=dark&hide_border=false)<br/>
+# 📊 GitHub Status⚡⚡:
+![](https://github-readme-stats.vercel.app/api?username=SumitKumargiri&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  |
+![](https://github-readme-streak-stats.herokuapp.com/?user=SumitKumargiri&theme=dark&hide_border=false)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SumitKumargiri&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<hr/>
 <!-----------## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SumitKumargiri&theme=radical&no-frame=false&no-bg=false&margin-w=4)-------->
 
@@ -136,12 +136,12 @@
 <!---
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SumitKumargiri&limit=5&theme=monokai&combine_all_yearly_contributions=true)
--->
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 <hr/>
+-->
 <!---
 [![](https://visitcount.itsvg.in/api?id=SumitKumargiri&icon=0&color=0)](https://visitcount.itsvg.in)-->
 
