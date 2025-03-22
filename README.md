@@ -33,9 +33,9 @@
  
  🔭 I’m currently working on **UI Design**
  
- 🌱 I’m currently Working ** Dotnet,React,javascript,Angular,Signalr,GRPC, MicroSoftServices,JWT,Base64,BootStrap,Clean Architecture,Dll Process**
+ 🌱 I’m currently Working ** Dotnet,Redis,React,javascript,Angular,Signalr,GRPC, MicroSoftServices,JWT,Base64,BootStrap,Clean Architecture,Dll Process**
 
- 💬 Ask me about ** Dotnet,Angular,Siglar,Microsoft Services,GRPC,Identity Server, React, Javascript, Html, CSS...([https://github.com/salesp07/salesp07/issues])**
+ 💬 Ask me about ** Dotnet,Angular,Redis,Siglar,Microsoft Services,GRPC,Identity Server, React, Javascript, Html, CSS...([https://github.com/salesp07/salesp07/issues])**
 
  ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
  
