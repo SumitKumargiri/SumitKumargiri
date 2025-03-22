@@ -33,7 +33,7 @@
  
  🔭 I’m currently working on **UI Design**
  
- 🌱 I’m currently learning **React,javascript,Angular**
+ 🌱 I’m currently Working ** Dotnet,React,javascript,Angular,Signalr,GRPC, MicroSoftServices,JWT,Base64,BootStrap,Clean Architecture,Dll Process**
 
  💬 Ask me about **Node.js, React, Javascript, Html, CSS... or anything [here]([https://github.com/salesp07/salesp07/issues])**
 
