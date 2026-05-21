@@ -193,8 +193,8 @@
   <img src="https://avatars.githubusercontent.com/u/14258920?s=200&v=4" alt="Hangfire" width="40" height="40"/>
 </a>
 
- <a href="https://www.iis.net/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/IIS_logo.svg/512px-IIS_logo.svg.png" alt="IIS Deployment" width="40" height="40"/>
+ <a href="https://learn.microsoft.com/en-us/dotnet/core/extensions/windows-service" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows Service" width="40" height="40"/>
 </a>
 </p>
 
@@ -209,8 +209,8 @@
 
 <hr/>
 
-<!-----------<h2 align="center">⚡ Status ⚡</h2>------->
-<!-- <br>
+<h2 align="center">⚡ Status ⚡</h2>
+ <br>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=SumitKumargiri&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=SumitKumargiri&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
@@ -224,7 +224,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
 </h3>
 
-<br/> -->
+<br/> 
 
 
 <!--------- ## ⚡My Stats⚡:
