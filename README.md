@@ -212,39 +212,57 @@
  <br>
 <div align="center">
 
-  <a href="https://git.io/streak-stats">
-    <img
-      height="180em"
-      src="https://github-readme-streak-stats-eight.vercel.app/?user=SumitKumargiri&theme=react&border_radius=10"
-      alt="GitHub Streak"
-    />
-  </a>
+  <img
+    height="180em"
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=SumitKumargiri&theme=react&border_radius=10"
+    alt="GitHub Streak"
+  />
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      height="180em"
-      src="https://github-readme-stats-salesp07.vercel.app/api?username=SumitKumargiri&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10"
-      alt="GitHub Stats"
-    />
-  </a>
+  <img
+    height="180em"
+    src="https://github-readme-stats-salesp07.vercel.app/api?username=SumitKumargiri&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10"
+    alt="GitHub Stats"
+  />
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      height="180em"
-      src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=SumitKumargiri&hide=HTML&layout=compact&theme=react&border_radius=10"
-      alt="Top Languages"
-    />
-  </a>
+  <img
+    height="180em"
+    src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=SumitKumargiri&hide=HTML&layout=compact&theme=react&border_radius=10"
+    alt="Top Languages"
+  />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+  <img
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=SumitKumargiri&theme=react-dark&hide_border=true"
+    alt="Contribution Graph"
+  />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+  <img
+    width="100%"
+    src="https://github-profile-trophy.vercel.app/?username=SumitKumargiri&theme=discord&no-frame=true&row=1&column=6"
+    alt="Trophies"
+  />
 
 </div>
 <br/><br/>
 <hr/>
 
-<h3 align="center">
+<!--------- <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
 </h3>
 
-<br/> 
+<br/> -------->
 
 
 <!--------- ## ⚡My Stats⚡:
