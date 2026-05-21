@@ -25,7 +25,7 @@
   </table>
 
 <h1 align="center">👋 Hi,I'm Sumit Kumar Giri</h1>
-<h3 align="center">A passionate frontend developer from India and in my free time I make YouTube videos at:- https://www.youtube.com/@SKtutorial15434</h3>
+<h3 align="center">A passionate FullStack developer from India and in my free time I make YouTube videos at:- https://www.youtube.com/@SKtutorial15434</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -210,11 +210,28 @@
 
 <h2 align="center">⚡ Status ⚡</h2>
  <br>
-<div align=center>
- <img width="390" src="https://streak-stats.demolab.com?user=SumitKumargiri&theme=react&border_radius=10" alt="GitHub Streak" />
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=SumitKumargiri&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+<div align="center">
+
+  <img 
+    width="390" 
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=SumitKumargiri&theme=react&border_radius=10" 
+    alt="GitHub Streak" 
+  />
+
+  <img 
+    width="390" 
+    src="https://github-readme-stats-salesp07.vercel.app/api?username=SumitKumargiri&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" 
+    alt="GitHub Stats" 
+  />
+
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=SumitKumargiri&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-status" alt="top langs" />
+
+  <img 
+    width="325" 
+    src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=SumitKumargiri&hide=HTML&layout=compact&theme=react&border_radius=10" 
+    alt="Top Languages" 
+  />
+
 </div>
 <br/><br/>
 <hr/>
