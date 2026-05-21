@@ -170,7 +170,7 @@
   </a>
 
  <a href="https://learn.microsoft.com/en-us/aspnet/core/signalr/introduction" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/SignalR_logo.png" alt="SignalR" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="SignalR" width="40" height="40"/>
 </a>
 
   <a href="https://learn.microsoft.com/en-us/dotnet/architecture/" target="_blank" rel="noreferrer">
@@ -199,13 +199,13 @@
 </p>
 
 <hr/>
-<div align="center">
+<!-- <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" /> -->
   
   <br/><br/><br/>
-</div>
+<!-- </div> -->
 
 <hr/>
 
