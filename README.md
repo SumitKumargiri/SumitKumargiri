@@ -213,19 +213,19 @@
 <div align="center">
 
   <img
-    height="180em"
+    width="32%"
     src="https://github-readme-streak-stats-eight.vercel.app/?user=SumitKumargiri&theme=react&border_radius=10"
     alt="GitHub Streak"
   />
 
   <img
-    height="180em"
+    width="32%"
     src="https://github-readme-stats-salesp07.vercel.app/api?username=SumitKumargiri&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10"
     alt="GitHub Stats"
   />
 
   <img
-    height="180em"
+    width="32%"
     src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=SumitKumargiri&hide=HTML&layout=compact&theme=react&border_radius=10"
     alt="Top Languages"
   />
@@ -237,7 +237,7 @@
 <div align="center">
 
   <img
-    width="100%"
+    width="98%"
     src="https://github-readme-activity-graph.vercel.app/graph?username=SumitKumargiri&theme=react-dark&hide_border=true"
     alt="Contribution Graph"
   />
@@ -245,16 +245,6 @@
 </div>
 
 <br/>
-
-<div align="center">
-
-  <img
-    width="100%"
-    src="https://github-profile-trophy.vercel.app/?username=SumitKumargiri&theme=discord&no-frame=true&row=1&column=6"
-    alt="Trophies"
-  />
-
-</div>
 <br/><br/>
 <hr/>
 
