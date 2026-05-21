@@ -169,9 +169,9 @@
     <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="Microservices" width="40" height="40"/>
   </a>
 
-  <a href="https://learn.microsoft.com/en-us/aspnet/core/signalr/introduction" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/signalr.svg" alt="SignalR" width="40" height="40"/>
-  </a>
+ <a href="https://learn.microsoft.com/en-us/aspnet/core/signalr/introduction" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/SignalR_logo.png" alt="SignalR" width="40" height="40"/>
+</a>
 
   <a href="https://learn.microsoft.com/en-us/dotnet/architecture/" target="_blank" rel="noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" alt="Clean Architecture" width="40" height="40"/>
@@ -189,13 +189,13 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Jest" width="40" height="40"/>
   </a>
 
-  <a href="https://www.hangfire.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.hangfire.io/img/logo.png" alt="Hangfire" width="40" height="40"/>
-  </a>
+ <a href="https://www.hangfire.io/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/hangfire.svg" alt="Hangfire" width="40" height="40"/>
+</a>
 
   <a href="https://www.iis.net/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/microsoft-iis.svg" alt="IIS Deployment" width="40" height="40"/>
-  </a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/IIS_logo.svg/512px-IIS_logo.svg.png" alt="IIS Deployment" width="40" height="40"/>
+</a>
 </p>
 
 <hr/>
