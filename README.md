@@ -212,25 +212,29 @@
  <br>
 <div align="center">
 
-  <img 
-    width="390" 
-    src="https://github-readme-streak-stats-eight.vercel.app/?user=SumitKumargiri&theme=react&border_radius=10" 
-    alt="GitHub Streak" 
-  />
+  <a href="https://git.io/streak-stats">
+    <img
+      height="180em"
+      src="https://github-readme-streak-stats-eight.vercel.app/?user=SumitKumargiri&theme=react&border_radius=10"
+      alt="GitHub Streak"
+    />
+  </a>
 
-  <img 
-    width="390" 
-    src="https://github-readme-stats-salesp07.vercel.app/api?username=SumitKumargiri&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" 
-    alt="GitHub Stats" 
-  />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      height="180em"
+      src="https://github-readme-stats-salesp07.vercel.app/api?username=SumitKumargiri&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10"
+      alt="GitHub Stats"
+    />
+  </a>
 
-  <br/>
-
-  <img 
-    width="325" 
-    src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=SumitKumargiri&hide=HTML&layout=compact&theme=react&border_radius=10" 
-    alt="Top Languages" 
-  />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      height="180em"
+      src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=SumitKumargiri&hide=HTML&layout=compact&theme=react&border_radius=10"
+      alt="Top Languages"
+    />
+  </a>
 
 </div>
 <br/><br/>
@@ -265,12 +269,12 @@
 
 
 
-# 📊 GitHub Status⚡⚡:
+<!----------- # 📊 GitHub Status⚡⚡:
 ![](https://github-readme-stats.vercel.app/api?username=SumitKumargiri&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SumitKumargiri&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SumitKumargiri&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<hr/>
+<hr/> ------>
 <!-----------## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SumitKumargiri&theme=radical&no-frame=false&no-bg=false&margin-w=4)-------->
 
