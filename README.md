@@ -190,7 +190,7 @@
   </a>
 
  <a href="https://www.hangfire.io/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/hangfire.svg" alt="Hangfire" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/14258920?s=200&v=4" alt="Hangfire" width="40" height="40"/>
 </a>
 
   <a href="https://www.iis.net/" target="_blank" rel="noreferrer">
@@ -227,7 +227,7 @@
 <br/> -->
 
 
-<!-------## ⚡My Stats⚡:
+## ⚡My Stats⚡:
 <p align="center">
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=SumitKumargiri&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
 </p>
@@ -246,7 +246,7 @@
     <a href="https://github.com/SumitKumargiri/IP-Finder"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SumitKumargiri&repo=IP-Finder&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
    <a href="https://github.com/ChatCool-Inc/chatcool"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ChatCool-Inc&repo=chatcool&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
   </p>
----->
+
 
 
 # 📊 GitHub Status⚡⚡:
