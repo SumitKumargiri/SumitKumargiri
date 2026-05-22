@@ -67,10 +67,9 @@
 <a href="https://auth.geeksforgeeks.org/user/sumitgiri15434" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sumitgiri15434" height="30" width="40" /></a>
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SumitKumargiri&show_icons=true&theme=tokyonight)
-
 <hr/>
 <h3 align="left">💻⚒️Languages and Tools:⚒️💻</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Full+Stack+Developer;Dotnet+Developer;React+Developer;Angular+Developer)](https://git.io/typing-svg)
 <p align="left">
   <a href="https://angular.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
