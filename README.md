@@ -69,7 +69,7 @@
 
 <hr/>
 <h3 align="left">💻⚒️Languages and Tools:⚒️💻</h3>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Full+Stack+Developer;Dotnet+Developer;React+Developer;Angular+Developer)](https://git.io/typing-svg)
+ <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&height=70&lines=Full+Stack+Developer;Dotnet+Developer;React+Developer;Angular+Developer;Microservices+Developer" />
 <p align="left">
   <a href="https://angular.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
