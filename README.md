@@ -28,7 +28,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=35&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&height=70&lines=Full+Stack+Developer;Dotnet+Developer;React+Developer;Angular+Developer;Microservices+Developer" />
 <h3 align="center">A passionate FullStack developer from India and in my free time I make YouTube videos at:- https://www.youtube.com/@SKtutorial15434</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="Coding" width="400"
+src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 <div align="center">
  
