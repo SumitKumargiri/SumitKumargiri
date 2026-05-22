@@ -279,12 +279,12 @@
 
 
 
- # 📊 GitHub Status⚡⚡:
+<!----------- # 📊 GitHub Status⚡⚡:
 ![](https://github-readme-stats.vercel.app/api?username=SumitKumargiri&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SumitKumargiri&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SumitKumargiri&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<hr/> 
+<hr/>  -------->
 <!-----------## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SumitKumargiri&theme=radical&no-frame=false&no-bg=false&margin-w=4)-------->
 
