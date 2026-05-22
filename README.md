@@ -199,14 +199,14 @@
 </p>
 
 <hr/>
-<!-- <div align="center">
+<div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" /> -->
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" /> 
   
-<!-- </div> -->
+ </div>
 
-<!-- <hr/> -->
+ <hr/> 
 
 <!-- <h2 align="center">⚡ Status ⚡</h2>
  <br>
@@ -255,10 +255,11 @@
 <br/> -------->
 
 
- ## ⚡My Stats⚡:
+<!--------- ## ⚡My Stats⚡:
 <p align="center">
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=SumitKumargiri&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
-</p>
+</p>  -------->
+
 
 ## Activity On GitHub
 
