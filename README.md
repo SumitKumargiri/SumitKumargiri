@@ -29,7 +29,7 @@
 <h3 align="center">A passionate FullStack developer from India and in my free time I make YouTube videos at:- https://www.youtube.com/@SKtutorial15434</h3>
 
 <img align="right" alt="Coding" width="400"
-src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
 <div align="center">
  
