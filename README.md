@@ -25,6 +25,7 @@
   </table>
 
 <h1 align="center">👋 Hi,I'm Sumit Kumar Giri</h1>
+ <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&height=70&lines=Full+Stack+Developer;Dotnet+Developer;React+Developer;Angular+Developer;Microservices+Developer" />
 <h3 align="center">A passionate FullStack developer from India and in my free time I make YouTube videos at:- https://www.youtube.com/@SKtutorial15434</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
@@ -69,7 +70,6 @@
 
 <hr/>
 <h3 align="left">💻⚒️Languages and Tools:⚒️💻</h3>
- <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&height=70&lines=Full+Stack+Developer;Dotnet+Developer;React+Developer;Angular+Developer;Microservices+Developer" />
 <p align="left">
   <a href="https://angular.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
