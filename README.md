@@ -200,6 +200,10 @@
 
 <hr/>
 <div align="center">
+  ## 🐍 My Contributions
+
+![snake gif](https://raw.githubusercontent.com/SumitKumargiri/SumitKumargiri/output/github-contribution-grid-snake.svg)
+
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" 
