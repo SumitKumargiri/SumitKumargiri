@@ -35,11 +35,11 @@ src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
 <div align="center">
  
- 🔭 I’m currently working on **UI Design**
+ 🔭 I’m currently working on **Dotnet Developer**
  
- 🌱 I’m currently Working ** Dotnet,Redis,React,javascript,Angular,Signalr,GRPC, MicroSoftServices,JWT,Base64,BootStrap,Clean Architecture,Dll Process**
+ 🌱 I’m currently working on ** Dotnet, Redis, React, JavaScript, Angular, Signalr, GRPC, Microsoft Services, JWT, Base64, Bootstrap, Clean Architecture, Dll Process**
 
- 💬 Ask me about ** Dotnet,Angular,Redis,Siglar,Microsoft Services,GRPC,Identity Server, React, Javascript, Html, CSS..................**
+ 💬 Ask me about ** Dotnet, Angular, Redis, Siglar, Microsoft Services, GRPC, Identity Server, React, Javascript, HTML, CSS..................**
 
  ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
  
