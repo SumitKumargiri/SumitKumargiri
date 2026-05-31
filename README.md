@@ -62,7 +62,7 @@ src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sumit kumar giri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumit kumar giri" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sumit-giri-524718214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumit kumar giri" height="30" width="40" /></a>
 <a href="https://fb.com/aaditya goshwami (sumit kumar giri)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aaditya goshwami (sumit kumar giri)" height="30" width="40" /></a>
 <a href="https://instagram.com/goshwamiaaditya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="goshwamiaaditya" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@SKtutorial15434" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="motivate your life and daily inspiration" height="30" width="40" /></a>
