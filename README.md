@@ -113,8 +113,10 @@ src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredevops/azuredevops-original.svg" alt="Azure DevOps" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud Platform" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/vercel" alt="Vercel" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/netlify" alt="Netlify" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/githubpages" alt="GitHub Pages" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/jira" alt="Jira" width="40" height="40"/>
 </p>
 
