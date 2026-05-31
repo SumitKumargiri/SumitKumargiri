@@ -116,7 +116,7 @@ src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/vercel" alt="Vercel" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/netlify" alt="Netlify" width="40" height="40"/>
- <img src="https://cdn.simpleicons.org/githubpages/222222" alt="GitHub Pages" width="40" height="40"/>
+ <img src="https://cdn.simpleicons.org/githubpages/0969DA" alt="GitHub Pages" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/jira" alt="Jira" width="40" height="40"/>
 </p>
 
