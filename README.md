@@ -115,7 +115,7 @@ src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
   <img src="https://cdn.simpleicons.org/vercel/0969DA" alt="Vercel" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/netlify" alt="Netlify" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/githubpages/0969DA" alt="GitHub Pages" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/github/6E7681" alt="GitHub" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/github/06B6D4" alt="GitHub" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/githubactions/2088FF" alt="GitHub Actions" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/jira" alt="Jira" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows Service" width="40" height="40"/>
@@ -125,7 +125,6 @@ src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/github/06B6D4" alt="GitHub" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/postman" alt="Postman" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/cursor/0969DA" alt="Cursor AI" width="40" height="40"/>  
