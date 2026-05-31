@@ -94,7 +94,6 @@ src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="SignalR" width="40" height="40"/>
   <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="Microservices" width="40" height="40"/>
   <img src="https://avatars.githubusercontent.com/u/14258920?s=200&v=4" alt="Hangfire" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows Service" width="40" height="40"/>
   <img src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" alt="Clean Architecture" width="40" height="40"/>
   <img src="https://cdn-icons-png.flaticon.com/512/2166/2166823.png" alt="Design Patterns" width="40" height="40"/>
   <img src="https://cdn-icons-png.flaticon.com/512/2620/2620277.png" alt="Unit Testing" width="40" height="40"/>
@@ -118,7 +117,7 @@ src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
   <img src="https://cdn.simpleicons.org/netlify" alt="Netlify" width="40" height="40"/>
  <img src="https://cdn.simpleicons.org/githubpages/0969DA" alt="GitHub Pages" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/jira" alt="Jira" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/microsoft" alt="IIS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows Service" width="40" height="40"/>
 </p>
 
 <h3 align="left">🛠️ Development Tools</h3>
