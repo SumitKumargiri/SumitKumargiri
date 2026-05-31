@@ -83,7 +83,7 @@ src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" alt="shadcn/ui" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/shadcnui/0969DA" alt="shadcn/ui" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/antdesign/antdesign-original.svg" alt="Ant Design" width="40" height="40"/>
 </p>
 
