@@ -118,6 +118,7 @@ src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
   <img src="https://cdn.simpleicons.org/netlify" alt="Netlify" width="40" height="40"/>
  <img src="https://cdn.simpleicons.org/githubpages/0969DA" alt="GitHub Pages" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/jira" alt="Jira" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/microsoft" alt="IIS" width="40" height="40"/>
 </p>
 
 <h3 align="left">🛠️ Development Tools</h3>
