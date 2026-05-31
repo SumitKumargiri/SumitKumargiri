@@ -123,10 +123,10 @@ src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg/06B6D4" alt="GitHub" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/postman" alt="Postman" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/cursor" alt="Cursor AI" width="40" height="40"/>  
+  <img src="https://cdn.simpleicons.org/cursor/0969DA" alt="Cursor AI" width="40" height="40"/>  
   <img src="https://cdn.simpleicons.org/figma" alt="Figma" width="40" height="40"/>
 </p>
 
