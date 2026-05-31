@@ -129,6 +129,8 @@ src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
   <img src="https://cdn.simpleicons.org/postman" alt="Postman" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/cursor/0969DA" alt="Cursor AI" width="40" height="40"/>  
   <img src="https://cdn.simpleicons.org/figma" alt="Figma" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/githubcopilot/8957E5" alt="GitHub Copilot" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/claude/D97757" alt="Claude AI" width="40" height="40"/>
 </p>
 
 <hr/>
