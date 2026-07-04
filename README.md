@@ -1,7 +1,7 @@
 <!----<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitgiri15434&label=Profile%20views&color=0e75b6&style=flat" alt="sumitgiri15434" /> </p>---->
 ## 🏆 GitHub Trophies
 <!------------ ![](https://github-profile-trophy.vercel.app/?username=SumitKumargiri&theme=radical&no-frame=false&no-bg=false&margin-w=4) ---------->
-![Trophy](https://github-profile-trophy.vercel.app/?username=SumitKumargiri&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumitgiri15434&show_icons=true&theme=radical)
 ## Profile Views
 
 
